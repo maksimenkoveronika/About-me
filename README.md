@@ -1,6 +1,7 @@
 Hello!🤗
-My name is Nika and I am a beginner tester💁‍♀️
+My name is Nika and I'm a beginner tester💁‍♀️
 
-I have always been interested in the process of creating software, I like to check software products, as well as make them of high quality.
-Creative work, has many points of growth💡
+In this repository, I store my supporting certificates of course completion, as well as my CV.
+
+I really like my business and what I do. Creative work has many points of growth💡
 
