@@ -11,3 +11,7 @@ Key achievements include:
 
 My core competencies include Web and Mobile Testing, Functional and Non-Functional Testing, and strong documentation skills, with proficiency in tools like Postman, SQL, MySQL, DBeaver, Linux Commands, Git, Grafana, and many others.
 
+Key Skills:
+🔸 Testing: Web and Mobile Testing, Functional and Non-Functional Testing
+🔸 Tools: Fiddler, Charles, DevTools, Postman, SQL, MySQL, DBeaver, Linux Commands, Git Bash, Git, Grafana
+🔸 Documentation: Test Documentation, Checklists, Test Cases, Test Plans, Bug Reports, Software Requirements Specification (SRS), Minimum Viable Product (MVP), Project Documentation
